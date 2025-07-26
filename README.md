@@ -26,8 +26,8 @@ Both should be installed and make sure mongodb is running.
 
 Installation
 First Method
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
+git clone https://github.com/ranjanxsumit/samwaad-chat-app/edit/main
+cd samwaad-chat-app
 Now rename env files from .env.example to .env
 
 cd public
