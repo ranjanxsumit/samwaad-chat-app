@@ -26,8 +26,12 @@ Both should be installed and make sure mongodb is running.
 
 Installation
 First Method
+
 git clone https://github.com/ranjanxsumit/samwaad-chat-app/tree/main
+
+
 cd samwaad-chat-app
+
 Now rename env files from .env.example to .env
 
 cd public
